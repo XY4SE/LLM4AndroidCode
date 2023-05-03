@@ -9,6 +9,6 @@ The python version used is 3.11.2, and the openai version is 0.27.6.
 To use OpenAI in your project, you need to install the OpenAI API. Using -pip install openai
 
 # How to use
-In `run_KGPT.py` file, you need to set the openai_key to use OpenAI API.
+In `runKGPT.py` file, you need to set the openai_key to use OpenAI API.
 
 `openai.api_key = "YOUR_API_KEY"`
